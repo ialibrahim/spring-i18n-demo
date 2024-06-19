@@ -1,0 +1,1 @@
+This is a demo for AcceptHeaderLocaleResolver implementation. See this article for more details: [REST API Localization with Spring Boot AcceptHeaderLocaleResolver](https://medium.com/@ialibrahim9/rest-api-localization-with-spring-boot-8697e6a8123c)
